@@ -1,0 +1,193 @@
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+p,a,input,label,textarea,span,ul,li{
+  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.btn {
+  background:#f05f5c;
+  color: white;
+  padding: 9px 26px;
+  border-radius: 20px;
+}
+
+h3{
+  font-size: 40px;
+  line-height: 1.5; 
+}
+
+img{ 
+  max-width: 100% ;
+
+}
+p{
+  color:#707070;
+  font-size: 22px;
+}
+
+
+p.lead{
+  color:black;
+}
+
+#intro .jumbotron{
+    height: 70vh;
+}
+
+
+#intro img{
+  max-width: 100% ;
+    height: flex ;
+}
+#intro h1{
+  font-size: 52px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+#intro .container{
+  position: relative;
+  top:60%;
+  transform: translateY(-50%);   
+}
+
+header li{
+  margin: 0 10px;  
+}
+
+#second{
+  padding: 40px 40px;
+  margin:20px;
+}
+
+#second h3{
+  margin:20px;
+  padding-bottom:30px;
+}
+
+#second img{
+  width: 200px;
+  border-radius: 100%;
+  margin: 10px 40px 10px 5px;
+  position-left:50px;
+} 
+
+#artist{
+  background: #B993D6; 
+  background: -webkit-linear-gradient(to bottom, #8CA6DB, #B993D6); 
+  background: linear-gradient(to bottom, #8CA6DB, #B993D6); 
+  padding: 30px 0px;
+  height:100%:
+}
+
+#artist h3{
+  margin: 30px; 
+  color:white;
+    font-size: 40px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+#artist img{
+  transform:scale(1); 
+  border: 5px solid #E0D2F8;
+  overflow: hidden;
+  border-radius: 100%;
+  width: 100%;
+  margin:30px 0px 20px 0px;
+} 
+#photoes {
+  position: relative;
+  width: 100%;
+  height:100%:
+}
+#photoes carouselExampleIndicators{
+  position: relative;
+  width: 100%;
+}
+
+
+
+#third{
+  background: rgb(248, 248, 248);
+  padding: 80px 0px;
+}
+#third h3{
+  font-size:40px;
+  margin-bottom: 80px; 
+}
+
+#third .upper{
+   position: relative; 
+}
+#third .innertext{
+ 
+  bottom: 24px;
+  left: 24px;
+}
+#third .innertext span{  
+  position: absolute;    
+  top: 10px;
+  left:100px;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 6px 15px;
+  border-radius: 20%;
+
+}
+
+#third .innertext h4{
+  position: absolute;
+  bottom: 5px;
+  left:12px;
+  font-size: 22px;
+  margin-top: 18px;
+  background: rgba(255, 255, 255, 0.5);
+}
+#third .lower h3{
+  font-size: 30px;
+  margin-bottom: 18px;
+  margin-top: 12px;
+}
+#third .lower span{
+  font-size: 15px;
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+#third .outer{
+  background: white;
+  box-shadow: 0 0 8px 0 rgba(0,0,0,0.08);
+  
+}
+
+#third .lower {
+  padding: 6px 20px 20px 20px;
+}
+
+#third a {
+  color:black;
+}
+
+#third a:hover {
+  text-decoration: none;
+}
+#contact h3{
+  font-size:40px;
+  margin: 50px; 
+}
+#contact .btn{
+  margin: 20px;   
+}
+#contact .card{
+  margin-bottom: 80px;   
+}
+#contact .fa {
+  padding: 10px;
+  font-size: 50px;
+  margin: 30px; 
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
